@@ -20,4 +20,4 @@
 <h3 align="left">GitHub İstatistikleri:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=blackrosexml&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrosexmlm&layout=compact&theme=dark&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrosexml&layout=compact&theme=dark&hide_border=true" />
